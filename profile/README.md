@@ -49,6 +49,6 @@ We agree on scope, pricing, and delivery expectations before development begins.
 
 Have a product idea, an existing platform to improve, or a workflow to automate? Tell us what you want to achieve.
 
-- **Email:** [info@compiledtech.io](mailto:contact@compiledtech.io)
+- **Email:** [contact@compiledtech.io](mailto:contact@compiledtech.io)
 - **Project inquiries:** [compiledtech.io/contact](https://compiledtech.io/contact)
 - **Location:** Hasilpur, Punjab, Pakistan · Working with local and international clients
